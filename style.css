@@ -1,0 +1,17 @@
+body {
+	margin: 30px;
+}
+
+#name {
+	
+	display: inline-block;
+	padding-right: 400px;
+	padding-top: 10px;
+	vertical-align: top;
+}
+
+#photo {
+	
+	display: inline-block;
+
+}
